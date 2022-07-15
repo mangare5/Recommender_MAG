@@ -1,2 +1,1 @@
-# Recommender_MAG
-Recommendation system
+# Recomendador
